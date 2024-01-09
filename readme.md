@@ -1,6 +1,6 @@
 # Skyfus app
 
-This is a small application written in C to ease the gameplay of a multiples simultanous dofus account.  
+This is a small application written in C++ to ease the gameplay of a multiples simultanous dofus account.  
 Allowing a similar `Alt + Escape` / `Alt + Shift + Escape` behavior but bound to the registered dofus client.  
 
 > This application only works for Windows. POSIX system are not supported.
