@@ -1,8 +1,25 @@
 # Skyfus app
 
-This is a small application written in C to ease the gameplay of a multiples simultanous dofus account.
+This is a small application written in C to ease the gameplay of a multiples simultanous dofus account.  
+Allowing a similar `Alt + Escape` / `Alt + Shift + Escape` behavior but bound to the registered dofus client.  
 
-Allowing a similar `Alt + Escape` / `Alt + Shift + Escape` behavior but bound to the registered dofus client.
+> This application only works for Windows. POSIX system are not supported.
+
+The latest release (v1.0.0) has been tested and work on Dofus Retro `v1.41.9`.  
+It has been tested on Windows 11 and 10. But as this application is based upon the `win32.dll` it should work on older version of Windows without any issue.
+
+# Installation
+
+## Build from source
+
+```bash
+git clone https://github.com/Skylli202/Skyfus-app.git
+```
+
+## Download the latest release
+
+Download the latest release from GitHub.  
+[v1.0.0](https://github.com/Skylli202/Skyfus-app/releases/tag/v1.0.0)
 
 # Keybind
 
